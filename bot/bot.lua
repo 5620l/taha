@@ -90,13 +90,13 @@ function create_config( )
 		"fun",
 
 	},
-    sudo_users = {446738577, 374734484, sudo_id},
+    sudo_users = {189308877, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[
-Ad̈m̈ïn̈s̈: @SudoLocker
-Cḧän̈n̈ël̈: @LockerTeam
+Ad̈m̈ïn̈s̈: @TAHA_RI
+Cḧän̈n̈ël̈: 
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
